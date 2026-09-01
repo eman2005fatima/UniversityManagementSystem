@@ -1,0 +1,6 @@
+[database]
+host = localhost
+user = root
+password = your_password_here
+dbname = university_db
+port = 3306
